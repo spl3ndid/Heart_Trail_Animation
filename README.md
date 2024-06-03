@@ -23,13 +23,13 @@ A simple and visually appealing heart trail animation that follows the cursor as
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/spl3ndid/heart_trail_animation.git
+    git clone https://github.com/spl3ndid/Heart_Trail_Animation.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd heart_trail_animation
+    cd Heart_Trail_Animation
     ```
 
 3. Open the `index.html` file in your preferred web browser.
