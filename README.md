@@ -4,7 +4,7 @@ A simple and visually appealing heart trail animation that follows the cursor as
 
 ## Demo
 
-[View Live Demo](https://your-demo-link.com)
+![Video Demo](https://github.com/spl3ndid/Heart_Trail_Animation/blob/main/HeartTrailAnimationMozillaFirefox.gif)
 
 ## Features
 
